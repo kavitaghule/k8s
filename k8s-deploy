@@ -1,0 +1,6 @@
+for deploying application on k8s 
+1. deploymnet.yml
+2.service.yml
+3.ingress.yml
+4.secret.yml
+5.persistant valoume.yml
